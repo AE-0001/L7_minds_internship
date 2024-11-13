@@ -1,11 +1,11 @@
 **RUN:**
-
 run the main.py file: python main.py
 enter the role(to see the admin and the user interfaces)
 explore the features.
 
 **SET UP:**
 
+Download zip
 Open vscode/any python interpreter
 create a venv
 activate it
