@@ -5,7 +5,7 @@ explore the features.
 
 **SET UP:**
 
-Download zip
+Download this code zip
 Open vscode/any python interpreter
 create a venv
 activate it
